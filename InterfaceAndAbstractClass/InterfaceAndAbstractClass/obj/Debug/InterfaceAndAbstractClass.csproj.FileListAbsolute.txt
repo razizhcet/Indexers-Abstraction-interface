@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe.config
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.pdb
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.exe
+E:\BizRun.NET\c#.net-programs\InterfaceAndAbstractClass\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.pdb
